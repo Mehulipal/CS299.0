@@ -1,7 +1,7 @@
 # Realtime Sign Language Recognition
 
 Dataset Link - https://github.com/Mehulipal/CS299.0/tree/master/Tensorflow/workspace/images <br />
-Presentation Link - https://docs.google.com/presentation/d/1XM7BttTLwyz4IMS_ygr9sam1osl4HuetDxsfcgtwHNA/edit?usp=sharing <br />
+Ppt Link - https://docs.google.com/presentation/d/1XM7BttTLwyz4IMS_ygr9sam1osl4HuetDxsfcgtwHNA/edit?usp=sharing <br />
 Demo Video - https://drive.google.com/file/d/1poRH4IyNf_sbb4NMw9iq-1fpz9WsCn5W/view?usp=sharing
 
 ## Problem Statement
@@ -16,7 +16,7 @@ Communication is a two-way process. But unfortunately, there always remains a ba
 ## References
 To be added...
 
-## Setting Up (Locally)
+## Setting Up
 - Fork and Clone the [repository](https://github.com/Mehulipal/CS299.0)
 - Download and Install [Node.js](https://nodejs.org/en/download/)
 - Navigate to [Computer Vision](https://github.com/Mehulipal/CS299.0/tree/master/ComputerVision) directory
@@ -25,6 +25,7 @@ To be added...
 npm install .
 npm start
 ``` 
+It will open the app locally
 
 ## Screenshot
 <img src="https://i.ibb.co/jMD5kqC/Untitled3-COLLAGE.jpg" alt="Untitled3-COLLAGE" border="0" width="1000">
