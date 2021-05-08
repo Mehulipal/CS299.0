@@ -1,1 +1,1 @@
-## REALTIME SIGN LANGUAGE RECOGNITION
+## Realtime Sign Language Recognition
