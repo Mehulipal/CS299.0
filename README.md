@@ -1,7 +1,7 @@
 # Realtime Sign Language Recognition
 
 Dataset Link - https://github.com/Mehulipal/CS299.0/tree/master/Tensorflow/workspace/images <br />
-Ppt Link - https://docs.google.com/presentation/d/1XM7BttTLwyz4IMS_ygr9sam1osl4HuetDxsfcgtwHNA/edit?usp=sharing <br />
+Presentation Link - https://docs.google.com/presentation/d/1XM7BttTLwyz4IMS_ygr9sam1osl4HuetDxsfcgtwHNA/edit?usp=sharing <br />
 Demo Video - https://drive.google.com/file/d/1poRH4IyNf_sbb4NMw9iq-1fpz9WsCn5W/view?usp=sharing
 
 ## Problem Statement
